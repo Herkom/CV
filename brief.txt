@@ -48,4 +48,25 @@ las mejores practicas en el diseño front-end y que hago un trabajo
 profesional. Algo flexible pero con bases sólidas.
 
 ¿El color es algo relevante?
-Se quiere usar 
+Se quiere usar la paleta de colores ya propuesta. En especifico la combinación
+de los colores centrales anaranjado/violeta. COn esto queremos usar el 
+contraste natural entre estos 2 matices para atraer la atención sin llegar
+a la saturación. Se busca reflejar ser alguien que destaque, que llame la
+atención pero sin llegar a ser protagonista o sin opacar a otros miembros.
+Ser parte esencial de un equipo sin demeritar a los demas miembros.
+
+¿Qué cosas hay que evitar?
+Puntos comunes o muy usados, referencias directas al diseño y la tecnología.
+Estilos de letra tradicionales. El objetivo es ser percibido como un profesional
+en constante aprendizaje y de alto nivel.
+
+
+--Objetivos del proyecto--
+
+Objetivo principal:
+Logotipo claro, simple, vanguardista. Diseño y tecnología.
+
+Probema de diseño:
+Hacer un logo formal que sea creativo, claro y simple. Trabajar en el
+concepto de profesional y contemporaneo. Se solicita un lock-up que a manera de
+sello pueda identificar el trabajo de la marca.
